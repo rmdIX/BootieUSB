@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/refresh_black_36dp.svg</file>
+        <file>images/info_black_36dp.svg</file>
+        <file>images/folder_black_48dp.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>tools/ms-sys</file>
+        <file>tools/uefi-ntfs.img</file>
+    </qresource>
+</RCC>
